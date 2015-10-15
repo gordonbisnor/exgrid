@@ -21,7 +21,7 @@ defmodule ExGrid.Mixfile do
     [ {:ibrowse, github: "cmullaparthi/ibrowse", tag: "v4.1.0"},
       {:httpotion, "~> 1.0.0"},
       {:json, "~> 0.3.2"},
-      {:timex, "~> 0.13.2"}
+      {:timex, "~> 1.0.0-rc1"}
     ]
   end
 
