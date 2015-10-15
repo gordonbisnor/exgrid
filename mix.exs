@@ -18,7 +18,7 @@ defmodule ExGrid.Mixfile do
   end
 
   defp deps do
-    [ {:ibrowse, github: "cmullaparthi/ibrowse", tag: "v4.1.0"},
+    [ {:ibrowse, github: "cmullaparthi/ibrowse", tag: "v4.2"},
       {:httpotion, "~> 1.0.0"},
       {:json, "~> 0.3.2"},
       {:timex, "~> 1.0.0-rc1"}
